@@ -1,0 +1,33 @@
+{
+  "rf_all_features": [
+    "elevation",
+    "slope",
+    "aspect_sin",
+    "aspect_cos",
+    "curvature",
+    "twi",
+    "spi",
+    "hand",
+    "dist_river",
+    "ndvi",
+    "rain_event",
+    "rain_antec",
+    "lulc",
+    "soil_tex"
+  ],
+  "rf_no_elevation": [
+    "slope",
+    "aspect_sin",
+    "aspect_cos",
+    "curvature",
+    "twi",
+    "spi",
+    "hand",
+    "dist_river",
+    "ndvi",
+    "rain_event",
+    "rain_antec",
+    "lulc",
+    "soil_tex"
+  ]
+}

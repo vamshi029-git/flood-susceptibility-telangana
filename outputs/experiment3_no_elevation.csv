@@ -1,0 +1,4 @@
+Model,budameru_2024,godavari_2022,munneru_2024,Mean AUC (no elevation),Mean AUC (with elevation)
+CatBoost,0.876,0.854,0.777,0.836,0.87
+RF,0.878,0.914,0.842,0.878,0.877
+XGBoost,0.812,0.864,0.795,0.824,0.852

@@ -1,0 +1,22 @@
+# Machine learning
+pandas
+numpy
+scikit-learn
+statsmodels
+xgboost
+lightgbm
+catboost
+shap
+joblib
+# Plots
+matplotlib
+seaborn
+# Maps / geospatial
+rasterio
+geopandas
+# Google Earth Engine (only for notebook 00)
+earthengine-api
+geemap
+# Jupyter in VS Code
+jupyter
+ipykernel

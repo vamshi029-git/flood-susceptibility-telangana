@@ -1,0 +1,22 @@
+# environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+# logs created by CatBoost
+catboost_info/
+
+# large data (re-create with notebook 00, or download separately)
+data/**/*.tif
+data/**/*.shp
+data/**/*.dbf
+data/**/*.shx
+data/**/*.prj
+data/**/*.cpg
+data/**/*.fix
+
+# generated rasters and trained models
+outputs/*.tif
+outputs/*.pkloutputs/**/*.pkl
